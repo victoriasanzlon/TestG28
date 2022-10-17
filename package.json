@@ -1,0 +1,11 @@
+{
+  "name": "proyectos-dwg28-nodejs",
+  "version": "1.0.0",
+  "description": "Esto es un proyecto de prueba de nodejs, se pretende crear una aplicación que permita registrar los vehículos y tomar los tiempos de parqueo de estos, la aplicación podrá ser utilizado por empresas, colegios de zonas rurales y urbanas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victoria Sanchez Londoño",
+  "license": "ISC"
+}
